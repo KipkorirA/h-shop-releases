@@ -2,8 +2,8 @@
 
 Installers for **H-Shop**, point of sale for shops and wholesalers.
 
-- **Windows:** [H-Shop-Setup.exe](https://github.com/KipkorirA/h-shop-releases/releases/latest/download/H-Shop-Setup.exe)
-- **Android:** [H-Shop.apk](https://github.com/KipkorirA/h-shop-releases/releases/latest/download/H-Shop.apk)
+- **Windows:** [H-Shop-Setup.exe](https://shop.havenways.co.ke/download/H-Shop-Setup.exe)
+- **Android:** [H-Shop.apk](https://shop.havenways.co.ke/download/H-Shop.apk)
 
 Install steps: https://shop.havenways.co.ke/download
 
